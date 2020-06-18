@@ -1,0 +1,30 @@
+.jumbotron {
+    background: url('./img/pages\ –\ 3.png');
+    background-size: cover;
+    height: 1000px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.display-4{
+    font-weight: bold;
+    color: white;
+    margin-top: 80px;
+}
+
+.lead{
+    color: white;
+    margin-top: 50px;
+}
+
+h2{
+    color: white;
+    margin-top: 50px;
+}
+
+.number{
+    color: white;
+    font-weight: bold;
+    font-size: 55px;
+    margin-top: 50px;
+}
